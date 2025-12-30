@@ -1,0 +1,43 @@
+ body{
+    text-align: center;
+ }
+.box-container{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.brown{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border-radius: 10px;
+    margin: 0.5rem;
+}
+.green{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(18, 147, 50);
+    border-radius: 10px;
+    margin: 0.5rem;
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(16, 9, 118);
+    border-radius: 10px;
+    margin:  0.5rem;
+}
+.pink{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(197, 30, 172);
+    border-radius: 10px;
+    margin:  0.5rem;
+}
+.flash{
+    background-color: wheat;
+}
+.userflash{
+    background-color: black;
+}
